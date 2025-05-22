@@ -24,7 +24,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Константы
-ADMIN_CHAT_ID = 1016263757  # 1016263757 Замените на ваш chat_id
+ADMIN_CHAT_ID = 167162909  # 1016263757 Замените на ваш chat_id
 BOT_TOKEN = "7816437926:AAFRf1xhZHlJvvoys4s3MBdxP-XP76x_35w"  # Ваш токен
 
 # Состояния ConversationHandler
